@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+body {
+    background-color: rgba(18, 18, 18, 0.795);
+    ;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.oll {
+    text-align: center;
+    padding: 50px;
+    border: 5px solid #000000;
+    border-radius: 20px;
+    background-color: rgba(242, 228, 228, 0.8);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.emon {
+    color: #2a1111;
+    font-family: "Alice", serif;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: "Alice", serif;
+    color: rgba(255, 253, 253, 0.82);
+    background-color: #573131;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #714a4a;
+}
+
+.choco-coco {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #090606;
+    font-family: "Caveat Brush", cursive;
+    min-height: 50px;
+}
